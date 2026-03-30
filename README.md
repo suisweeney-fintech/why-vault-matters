@@ -133,4 +133,4 @@ If you're interested in Vault mechanisms, feel free to reach out via Telegram (@
 - [DipCoin Vaults](https://dipcoin.io/vaults/trump)
 - [Learn More About Vaults](https://dipcoin.io/vaults/about)
 
-*The mathematical models in this article have been open-sourced as a Jupyter Notebook(https://github.com/suisweeney-fintech/why-vault-matters)—you're welcome to verify and tweak the parameters yourself. Money never sleeps, and math never lies.*
+*The mathematical models in this article have been open-sourced as a Jupyter Notebook(https://github.com/suisweeney-fintech/why-vault-matters) — you're welcome to verify and tweak the parameters yourself. Money never sleeps, and math never lies.*
