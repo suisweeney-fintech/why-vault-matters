@@ -128,9 +128,11 @@ Si tu estrategia de trading ya genera algo de rentabilidad positiva, el mecanism
 
 ---
 
-Si te interesa el mecanismo del Vault, puedes contactarme a través de Telegram (@suisweeney), o visitar directamente:
+Si te interesa el mecanismo del Vault, sígueme en [X (Twitter)](https://x.com/suisweeney) para las últimas novedades y análisis en profundidad. También puedes contactarme directamente por [Telegram](https://t.me/suisweeney), siempre estoy disponible para conversar.
+
+Por supuesto, también puedes visitar directamente:
 
 - [DipCoin Vaults](https://dipcoin.io/vaults/trump)
 - [Más información sobre Vaults](https://dipcoin.io/vaults/about)
 
-*El modelo de cálculo incluido en este artículo ha sido publicado como Jupyter Notebook(https://github.com/suisweeney-fintech/why-vault-matters). Estás invitado a verificar y ajustar parámetros. El dinero nunca duerme, la matemática nunca miente.*
+*El modelo de cálculo incluido en este artículo ha sido publicado como  [Jupyter Notebook](https://github.com/suisweeney-fintech/why-vault-matters) .  Estás invitado a verificar y ajustar los parámetros por tu cuenta. El dinero nunca duerme, las matemáticas nunca mienten.*
